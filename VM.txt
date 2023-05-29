@@ -1,0 +1,18 @@
+VM1  - ifconfig
+ls
+touch filename.text
+nano filename.text
+yes
+ls
+cat filename.text
+scp filename.text vagrant(device according name)@vm 2 ip address):/home/vagrant
+yes
+password takecha je pan nav asel te
+
+
+
+
+VM2 -  ifconfig
+ls
+
+DONE
