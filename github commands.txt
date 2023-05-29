@@ -1,9 +1,0 @@
-git init
-git config --global user.name
-git config --global user.email
-touch filename.html
-git add -A
-git commit -m "firstcommit"
-git add -A
-git commit -m "secondcommit"
-git push
