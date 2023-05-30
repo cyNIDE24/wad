@@ -1,0 +1,5 @@
+node -v
+npm -v
+npx create-react-app reach-demo --use -npm
+cd reach-demo
+npm start
